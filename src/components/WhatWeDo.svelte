@@ -67,9 +67,3 @@
         We do some apps yes?
     </div>
 </div>
-
-<style>
-    .item {
-
-    }
-</style>

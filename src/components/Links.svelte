@@ -7,8 +7,8 @@
 </script>
 <div class="m-6">
     <h3 class="w-full text-2xl mb-1 mt-6 font-bold">Company</h3>
-    <a href="#" class="mr-6 text-xl">About</a>
-    <a href="#" class="text-xl">Contact</a>
+    <a href="http://" class="mr-6 text-xl">About</a>
+    <a href="http://" class="text-xl">Contact</a>
     
     <div class="flex mt-6">
         <LinkedIn size="30px" class="mr-2" />
